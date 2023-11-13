@@ -1,0 +1,3 @@
+A. 'pontootimo' é a função principal
+B. No ambiente tem todas as bibliotecas que foram usadas para rodar o código
+C. Para entrar no ambiente esteja neste diretório e utilize o comando ambiente\scripts\activate

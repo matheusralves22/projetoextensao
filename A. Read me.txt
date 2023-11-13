@@ -1,0 +1,13 @@
+Código para Projeto de Extensão
+ 
+ Código com intuito de otimizar uma carteira a partirda escolha de ativos e suas alocações utilizando índices de desempenho.
+Será necessário utilizar o ambiente virtual, que também está nesse diretório. Caso estiver dando erro, será necessário baixar
+as bibliotecas novamente, utilize o comando a seguir:
+	pip install pandas numpy openpyxl sympy pyfiglet scipy matplotlib
+
+
+Grupo:
+	Matheus Augusto Silva da Costa
+	Matheus Ribeiro Alves
+	Pedro Henrique Neves Vieira
+	Victor Emanuel Dias Torquato
